@@ -15,3 +15,5 @@ jobs:
           npm install
           npm run build-storybook
           npm run deploy-storybook
+          git config --global user.name "Anthony Valenzuela"
+          git config --global user.email "aovalenz@uci.edu"
